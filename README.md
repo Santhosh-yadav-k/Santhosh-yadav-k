@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Developer passionate about programming, AI, and building projects.<br>💻 Skilled in Java, C, Python, DBMS & SQL.<br>🤖 Familiar with  AI tools for development and productivity.<br>🌐 Building websites and applications with AI assistance.<br>🚀 Always learning, experimenting, and exploring new technologies.<br>
+ Hi there, I’m Santhosh Yadav 👋<br><br>🎓 I’m a Computer Science and Engineering  student passionate about software devolpment  .<br>💻 I have knowledge of Java, C, Python, DBMS, and SQL.<br>🤖 I’m familiar with AI tools for learning and development.<br>🌐 I enjoy building websites and projects with AI assistance.<br>🧠 I’m continuously improving my programming and problem-solving skills.<br>📚 I love learning new technologies and exploring new ideas.<br>🚀 I enjoy turning ideas into practical projects.<br>🤝 I’m open to collaboration and exciting opportunities.<br>🌱 Always learning, building, and growing!<br>
 
 
 # 💻 Tech Stack:
